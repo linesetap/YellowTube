@@ -23,6 +23,9 @@
 - `video_max`: Set the maximum minutes for video duration that can be downloaded. Lower duration means less data consumption, e.g., 5.
 - `DEVELOPER_CHAT_ID`: Enter the ID value for your channel or account to receive bot errors.
 
+## Try Now In Telegram!
+[Try Now!](https://t.me/yellowtubebot)
+  
 # Produced by
 - [@jiv9e](https://t.me/jiv9e)
 - [Open Platform: Open Source Tools](https://t.me/platform_open)
