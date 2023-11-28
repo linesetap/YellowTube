@@ -1,0 +1,134 @@
+{
+  "ar": {
+    "start_message": "👋 | أهلاً بك في @{bot_username}\n📚 | انقر 📚 للمزيد من المعلومات عني\n💵 | انقر على 💵 لدعم البوت عبر PayPal",
+    "invalid_link_message": "❌️ | هذا النص ليس رابطًا صالحًا لمقطع يوتيوب. يرجى إرسال رابط مقطع يوتيوب فقط.",
+    "long_video_message": "❌️ | هذا الفيديو طويل جدًا. يمكنني تنزيل مقاطع الفيديو التي مدتها تصل إلى {video_max} دقائق فقط.",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "تم تغيير اللغة بنجاح إلى العربية [🇸🇦].",
+    "choose_lang": "اختر اللغة التي تريدها:",
+    "language": "🇸🇦 | العربية",
+    "flag": "🇸🇦"
+  },
+  "en": {
+    "start_message": "👋 | Welcome to @{bot_username}\n📚 | Click 📚 to learn more about me\n💵 | Click 💵 to support the bot via PayPal",
+    "invalid_link_message": "❌️ | This text is not a valid YouTube link. Please send a YouTube video link only.",
+    "long_video_message": "❌️ | This video is too long. I can download videos that are up to {video_max} minutes long only.",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "Language successfully changed to English [🇺🇸].",
+    "choose_lang": "Choose the language you want:",
+    "language": "🇺🇸 | English",
+    "flag": "🇺🇸"
+  },
+  "ru": {
+    "start_message": "👋 | Добро пожаловать в @{bot_username}\n📚 | Нажмите 📚, чтобы узнать больше обо мне\n💵 | Нажмите 💵, чтобы поддержать бота через PayPal",
+    "invalid_link_message": "❌️ | Этот текст не является допустимой ссылкой на YouTube. Пожалуйста, отправьте только ссылку на видео YouTube.",
+    "long_video_message": "❌️ | Это видео слишком длинное. Я могу загружать видео только длительностью до {video_max} минут.",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "Язык успешно изменен на русский [🇷🇺].",
+    "choose_lang": "Выберите язык:",
+    "language": "🇷🇺 | Русский",
+    "flag": "🇷🇺"
+  },
+  "hi": {
+    "start_message": "👋 | नमस्ते @{bot_username} में आपका स्वागत है\n📚 | मेरे बारे में और जानने के लिए 📚 पर क्लिक करें\n💵 | PayPal के माध्यम से बॉट का समर्थन करने के लिए 💵 पर क्लिक करें",
+    "invalid_link_message": "❌️ | यह पाठ एक वैध YouTube लिंक नहीं है। कृपया केवल YouTube वीडियो लिंक भेजें।",
+    "long_video_message": "❌️ | यह वीडियो बहुत लंबा है। मैं केवल {video_max} मिनट तक के वीडियो डाउनलोड कर सकता हूँ।",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "भाषा सफलतापूर्वक हिंदी में बदल गई [🇮🇳].",
+    "choose_lang": "वह भाषा चुनें जो आप चाहते हैं:",
+    "language": "🇮🇳 | हिंदी",
+    "flag": "🇮🇳"
+  },
+  "zh-cn": {
+    "start_message": "👋 | 欢迎来到@{bot_username}\n📚 | 单击📚以了解更多关于我的信息\n💵 | 单击💵通过PayPal支持机器人",
+    "invalid_link_message": "❌️ | 此文本不是有效的YouTube链接。请仅发送YouTube视频链接。",
+    "long_video_message": "❌️ | 此视频太长了。我只能下载最多 {video_max} 分钟的视频。",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "成功将语言更改为简体中文 [🇨🇳]。",
+    "choose_lang": "选择您想要的语言:",
+    "language": "🇨🇳 | 简体中文",
+    "flag": "🇨🇳"
+  },
+  "zh-tw": {
+    "start_message": "👋 | 歡迎來到@{bot_username}\n📚 | 點擊📚以獲取更多關於我的資訊\n💵 | 點擊💵通過 PayPal 支持機器人",
+    "invalid_link_message": "❌️ | 這個文本不是有效的 YouTube 鏈接。請僅發送 YouTube 視頻鏈接。",
+    "long_video_message": "❌️ | 這個視頻太長了。我只能下載最多 {video_max} 分鐘的視頻。",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "語言成功更改為繁體中文 [🇹🇼]。",
+    "choose_lang": "選擇您想要的語言:",
+    "language": "🇹🇼 | 繁體中文",
+    "flag": "🇹🇼"
+  },
+  "fr": {
+    "start_message": "👋 | Bienvenue sur @{bot_username}\n📚 | Cliquez sur 📚 pour en savoir plus sur moi\n💵 | Cliquez sur 💵 pour soutenir le bot via PayPal",
+    "invalid_link_message": "❌️ | Ce texte n'est pas un lien YouTube valide. Veuillez envoyer uniquement un lien vidéo YouTube.",
+    "long_video_message": "❌️ | Cette vidéo est trop longue. Je ne peux télécharger que des vidéos d'une durée maximale de {video_max} minutes.",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "La langue a été changée avec succès en français [🇫🇷].",
+    "choose_lang": "Choisissez la langue que vous voulez :",
+    "language": "🇫🇷 | Français",
+    "flag": "🇫🇷"
+  },
+  "ja": {
+    "start_message": "👋 | こんにちは！@{bot_username}へようこそ\n📚 | 私についてもっと知るには、📚をクリックしてください\n💵 | ボットをPayPalでサポートするには、💵をクリックしてください",
+    "invalid_link_message": "❌️ | このテキストは有効なYouTubeリンクではありません。YouTubeビデオリンクのみを送信してください。",
+    "long_video_message": "❌️ | このビデオは長すぎます。最大{video_max}分までのビデオのみをダウンロードできます。",
+    "error_message": "❌️ | `{e}`",
+    "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+    "lang_changed": "言語を日本語に正常に変更しました [🇯🇵]",
+    "choose_lang": "言語を選択してください：",
+    "language": "🇯🇵 | 日本語",
+    "flag": "🇯🇵"
+  },
+  "he": {
+      "start_message": "👋 | ברוך הבא אל @{bot_username}\n📚 | למידע נוסף אודותיי, לחץ על 📚\n💵 | לתמיכה בבוט דרך PayPal, לחץ על 💵",
+      "invalid_link_message": "❌️ | הטקסט הזה אינו קישור תקין לסרטון ב-YouTube. אנא שלח רק קישור לסרטון ב-YouTube.",
+      "long_video_message": "❌️ | הסרטון הזה ארוך מדי. אני יכול להוריד סרטונים במשך של עד {video_max} דקות בלבד.",
+      "error_message": "❌️ | {e}",
+      "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+      "lang_changed": "שפה הוחלפה בהצלחה לעברית [🇮🇱].",
+      "choose_lang": "בחר את השפה שתרצה:",
+      "language": "🇮🇱 | עברית",
+    "flag": "🇮🇱"
+  },
+  "fa": {
+      "start_message": "👋 | خوش آمدید به @{bot_username}\n📚 | برای اطلاعات بیشتر درباره من، بر روی 📚 کلیک کنید\n💵 | برای حمایت مالی از ربات از طریق PayPal، بر روی 💵 کلیک کنید",
+      "invalid_link_message": "❌️ | این متن یک لینک معتبر برای ویدیوی YouTube نیست. لطفاً فقط لینک یک ویدیوی YouTube را ارسال کنید.",
+      "long_video_message": "❌️ | این ویدیو خیلی طولانی است. من تنها می‌توانم ویدیوهایی با مدت زمان حداکثر {video_max} دقیقه را دانلود کنم.",
+      "error_message": "❌️ | {e}",
+      "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+      "lang_changed": "زبان با موفقیت به فارسی [🇮🇷] تغییر یافته است.",
+      "choose_lang": "زبان مورد نظر خود را انتخاب کنید:",
+      "language": "🇮🇷 | فارسی",
+    "flag": "🇮🇷"
+  },
+  "ku": {
+      "start_message": "👋 | سڵاو @{bot_username}\n📚 | کرتەک بکە بۆ زانیاری زیاتر لەسەر من\n💵 | کرتەک بکە بۆ پشتیوانی بۆت بە پەیپاڵ",
+      "invalid_link_message": "❌️ | ئەم نووسینە هەڵەیە بۆ لینکێکی یوتیوب. تکایە تەنها لینکی یوتیوبی فیلم بنێرە.",
+      "long_video_message": "❌️ | ئەم ڤیدیۆیە خۆشە خۆشیە. ئەتوانم فیلمەکانی ڤیدیۆیۆی تایبەتی باربکەم کە هاتووە بۆ {video_max} خولیا تایبەتی.",
+      "error_message": "❌️ | {e}",
+      "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+      "lang_changed": "بە سەرکەوتویی زمان بە کوردی [🇮🇶] گۆڕا.",
+      "choose_lang": "زمانی کە خواهەراوەت هەڵبژێرە:",
+      "language": "🇮🇶 | کوردی",
+    "flag": "🇮🇶"
+  },
+  "pt": {
+      "start_message": "👋 | Bem-vindo(a) ao @{bot_username}\n📚 | Clique em 📚 para obter mais informações sobre mim\n💵 | Clique em 💵 para apoiar o bot via PayPal",
+      "invalid_link_message": "❌️ | Este texto não é um link válido para um vídeo do YouTube. Por favor, envie apenas o link de um vídeo do YouTube.",
+      "long_video_message": "❌️ | Este vídeo é muito longo. Posso baixar vídeos com duração de até {video_max} minutos apenas.",
+      "error_message": "❌️ | {e}",
+      "video_caption": "🎬 | [{video_title_cleaned}]({youtube_link})\n👤 | {video_channel}\n👀 | {video_views_formatted}\n⏱️ | {video_duration_formatted}",
+      "lang_changed": "Idioma alterado com sucesso para o Português [🇵🇹].",
+      "choose_lang": "Escolha o idioma desejado:",
+      "language": "🇵🇹 | Português",
+    "flag": "🇵🇹"
+  }
+}
